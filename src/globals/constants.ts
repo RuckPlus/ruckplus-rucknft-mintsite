@@ -1,0 +1,2 @@
+// 0.07 ETH
+export const MINT_PRICE_ETH =  7000000000000000
